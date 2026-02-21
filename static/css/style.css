@@ -1,13 +1,19 @@
 body{
-    background-color: #f0f0f0;
+    background-color: #120f0f;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 h1{
-    color: #333;
+    color: #0bae72;
     margin-top: 50px;
 }
 p{
-    color: #666;
+    color: #e4ba3a;
     font-size: 18px;
+}
+img{
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
 }
